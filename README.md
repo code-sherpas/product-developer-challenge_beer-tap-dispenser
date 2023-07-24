@@ -1,7 +1,8 @@
 # product-developer-challenge_beer-tap-dispenser
 
 ## Introduction
-Develop an API to manage self-service beer tap dispensers
+Develop an API to manage self-service beer tap dispensers.
+
 Anyone who goes to a festival at least one time knows how difficult is to grab some drinks from the bars. They are crowded and sometimes queues are longer than the main artist we want to listen to!
 
 That's why some promoters are developing an MVP for some new festivals. Bar counters where you can go and serve yourself a beer. This will help make the waiting time much faster, making festival attendees happier and concerts even more crowded, avoiding delays!
